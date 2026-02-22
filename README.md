@@ -1,1 +1,1 @@
-Ai-workshop
+cpp-rag-chatbot
